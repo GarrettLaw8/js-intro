@@ -82,3 +82,21 @@ const cat = 'kitty';
 //   return sum
 //   }
 //   console.log(addNums(5,7))
+
+
+// const trueOrFalse = (argument) => { 
+// if (arg === true || arg === "true") {
+//   console.log('true');
+//   }
+// } else {
+//   console.log("false")
+// }
+
+
+const canDrive = (age) => {
+  if (age >= 15){
+    return true
+  } else {
+    return false
+  }
+}
