@@ -36,17 +36,49 @@ const cat = 'kitty';
 
 // function
 
- //function sayHello (){
+
+//function sayHello (){
 //   console.log("hello world")
 // }
 // sayHello();
+
+
 
 // const sayhello = function() => {
 //   console.log('hello world')
 // }
 
-const sayHello = () => {
-  console.log('hello')
-}
 
-sayHello();
+
+// const sayHello = () => {
+//   console.log('hello')
+// }
+
+// sayHello();
+
+
+
+// const withArg = (name) => {
+//   console.log(`hello ${name}!`)
+// }
+
+
+
+// withArg("Garrett")
+
+
+
+// const addNums = (num1,num2) => {
+// const sum = num1+num2
+// console.log(sum)
+// }
+// addNums(5,7)
+
+
+
+// const addNums = (num1,num2) => {
+//   const sum = num1+num2
+//   console.log(sum)
+//   return sum
+//   }
+//   console.log(addNums(5,7))
