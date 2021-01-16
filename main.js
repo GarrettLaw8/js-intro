@@ -12,3 +12,4 @@
 
   // let cat = "cat"
   // console.log(cat.length) // 3 ; 
+console.log()
